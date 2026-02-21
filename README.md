@@ -80,10 +80,10 @@ Me apasiona construir soluciones que combinan tecnología, investigación y expe
 ## 📬 Contacto
 
 <p>
-  <a href="https://www.linkedin.com/in/gustavo-fern%C3%A1ndez-guti%C3%A9rrez" target="_blank">
+  <a href="[https://www.linkedin.com/in/gustavo-fern%C3%A1ndez-guti%C3%A9rrez](https://www.linkedin.com/in/tavofergu/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/tavoofg" target="_blank">
+  <a href="[https://github.com/tavoofg](https://github.com/tavoofg)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
