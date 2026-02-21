@@ -72,7 +72,7 @@ Me apasiona construir soluciones que combinan tecnología, investigación y expe
 ---
 
 ### 🔬 [DERMOSAN — Diagnóstico Dermatológico con IA](#)
-> Sistema de diagnóstico de enfermedades de piel basado en redes neuronales convolucionales (**ResNet152**). Entrenado con más de **27,000 imágenes médicas**, alcanzando **92.3% de precisión**. Registrado ante INDECOPI.
+> Sistema de diagnóstico de enfermedades de piel basado en redes neuronales convolucionales (**ResNet152**). Entrenado con más de **27,000 imágenes médicas**, alcanzando **92.3% de precisión**. 
 `Python` `TensorFlow` `Keras` `CNN` `ResNet152`
 
 ---
