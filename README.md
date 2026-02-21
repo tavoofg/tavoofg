@@ -1,7 +1,7 @@
 # ¡Hola! Soy Gustavo Fernández Gutiérrez 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Ingeniero+de+Sistemas+%F0%9F%92%BB;Desarrollador+Web+Full+Stack+%F0%9F%8C%90;Investigador+%26+Docente+Universitario+%F0%9F%8E%93;Entusiasta+de+IA+%26+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Ingeniero+de+Sistemas+%F0%9F%92%BB;Desarrollador+Web+Full+Stack+%F0%9F%8C%90;Entusiasta+de+IA+%26+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ---
