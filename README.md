@@ -8,15 +8,15 @@
 
 ## 🙋‍♂️ Sobre mí
 
-Soy **Ingeniero de Sistemas** egresado de la **Universidad Nacional de Cañete (UNDC)**, donde actualmente trabajo como asistente en la **Dirección de Innovación y Transferencia Tecnológica**. También me desempeño como **docente en CAEN** (Centro de Altos Estudios Nacionales), enseñando metodología de tesis a nivel de posgrado en programas de geopolítica, estrategia y seguridad internacional.
 
-Me apasiona construir soluciones que combinan tecnología, investigación y experiencia de usuario. Disfruto trabajar en proyectos de **desarrollo web**, **inteligencia artificial** y **sistemas de salud digital**.
+Soy **Ingeniero de Sistemas** egresado de la **Universidad Nacional de Cañete (UNDC)**.
 
-- 🏙️ Basado en **Lima, Perú**
+Me apasiona construir soluciones que combinan tecnología, investigación y experiencia de usuario. Disfruto trabajar en proyectos de **desarrollo web** e **inteligencia artificial**.
+
+- 🏙️ **Lima, Perú**
 - 🎓 Ingeniero de Sistemas — UNDC
-- 👨‍🏫 Docente de Metodología de Investigación — CAEN
 - 🔭 Actualmente desarrollando plataformas web con **Next.js** y **PHP**
-- 🤖 Apasionado por la IA aplicada a la salud y la academia
+- 🤖 Apasionado por la IA aplicada
 - 📚 Siempre aprendiendo algo nuevo
 
 ---
@@ -80,10 +80,10 @@ Me apasiona construir soluciones que combinan tecnología, investigación y expe
 ## 📬 Contacto
 
 <p>
-  <a href="[https://www.linkedin.com/in/gustavo-fern%C3%A1ndez-guti%C3%A9rrez](https://www.linkedin.com/in/tavofergu/)" target="_blank">
+  <a href="https://www.linkedin.com/in/tavofergu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://github.com/tavoofg](https://github.com/tavoofg)" target="_blank">
+  <a href="https://github.com/tavoofg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
